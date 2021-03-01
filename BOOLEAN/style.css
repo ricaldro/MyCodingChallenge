@@ -1,0 +1,79 @@
+
+body{
+   background-image: url("background.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.container{
+background-color: rgba(0,0,0,0.5);
+width: 80%;
+margin: auto;
+margin-top: 1%;
+margin-bottom: 5%;
+border-radius: 30px;
+padding-bottom: 160px;
+}
+
+.mainbar{
+  background-color: lightgreen;
+  margin:50px;
+  padding:50px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.navbar{
+background-position: center;
+}
+
+.Title{
+color: lightgreen;
+padding: 80;
+margin: auto;
+font-size: 50px;
+}
+
+.objectlist{
+  color: white;
+}
+
+.navbar{
+  margin: auto;
+}
+
+.firstMonopattino{
+  font-size: 60px;
+}
+
+.secondMonopattino{
+  font-size: 25px;
+}
+
+.thirdMonopattino{
+  font-size: 25px;
+}
+
+.bar1{
+  background-color: orange;
+  width: 700px;
+  margin:50px;
+  padding:50px;
+  border-radius: 30px;
+}
+
+.bar2{
+  background-color: green;
+  width: 1000px;
+  margin:50px;
+  padding:50px;
+  border-radius: 30px;
+}
+
+.bar3{
+  background-color: red;
+  width: 400px;
+  margin: 50px;
+  padding:50px;
+  border-radius: 30px;
+}
